@@ -1,6 +1,5 @@
 # 🎬 Netflix Data Analysis Project
 
-## 📌 Internship Task - DecodeLab
 
 This project is part of my Data Science Internship at DecodeLab.
 
